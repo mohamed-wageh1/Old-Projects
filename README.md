@@ -1,6 +1,6 @@
 # 🗃️ Old Projects Archive
 
-This repository contains various small projects I built during my early days of learning web development and programming. These projects are kept here for reference, portfolio history, and to show my progression over time.
+This repository contains various small projects I built during my learning of web development and programming. These projects are kept here for reference and to show my progression over time.
 
 > ⚠️ These are **not production-ready** projects. The code may be messy, outdated, or unfinished.
 
